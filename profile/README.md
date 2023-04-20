@@ -1,7 +1,5 @@
 # Computer Systems Intelligence Lab.
 
-# CSI-Agent Group @ SKKU
-
 ## Reinforcement Learning
 
 ![RL](profile/images/reinforcement-learning.png)
