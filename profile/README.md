@@ -2,7 +2,7 @@
 
 ## Reinforcement Learning
 
-![RL](profile/images/reinforcement-learning.png)
+![RL](images/reinforcement-learning.png)
 
 CSI-Agent group works on incorporation of data-driven multi-task, multi-modal,
 continuous learning model architectures in the context of reinforcement learning to
@@ -12,7 +12,7 @@ can be adopted for downstream agent task learning in real-world settings.
 
 ## Embodied Agent
 
-![Embodied Agent](profile/images/embodied-agent.png)
+![Embodied Agent](images/embodied-agent.png)
 
 CSI-Agent group conducts the research on various embodied agent scenarios including
 drone, robot, and autonomous driving where the embodied agent learns to take optimal
@@ -23,7 +23,7 @@ multi-modal learning.
 
 ## Intelligent System
 
-![Intelligent System](profile/images/intelligent-system.png)
+![Intelligent System](images/intelligent-system.png)
 
 CSI-Agent group focuses on system intelligence areas including network-storage-learning
 system optimization, autonomous system control, federated learning with NPUs, and
